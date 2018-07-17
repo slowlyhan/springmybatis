@@ -1,0 +1,5 @@
+com/springmybatis/service/IUserService.class
+com/springmybatis/mapper/UserMapper.class
+com/springmybatis/controller/UserController.class
+com/springmybatis/model/User.class
+com/springmybatis/service/serviceImpl/UserServiceImpl.class
